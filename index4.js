@@ -4,6 +4,6 @@ let num2=100;
 console.log(num1+num2);
 
 
-function newFeature(){
-    console.log("new feature added");
+function newFeatureB(){
+    console.log("new feature added B");
 }
